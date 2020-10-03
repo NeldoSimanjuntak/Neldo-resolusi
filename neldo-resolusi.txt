@@ -2,3 +2,4 @@ Resolusi ke depan nya :
 - Menjadi seorang programmer .
 - bekerja sebagai front end developer
 - harus bisa menguasai javascript,html dan css.
+- membuat sebuah forum diskusi
