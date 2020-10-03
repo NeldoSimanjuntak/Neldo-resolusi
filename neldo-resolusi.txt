@@ -4,4 +4,3 @@ Resolusi ke depan nya :
 - menguasai javascript,html dan css.
 - membuat sebuah forum diskusi
 - Dapat bekerja dengan programmer expert di bidang webside
-- test commit
